@@ -1,0 +1,1 @@
+# Disciplina-Teoria-De-Linguagens-e-Compiladores-2023.2
