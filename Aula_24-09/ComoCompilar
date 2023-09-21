@@ -1,0 +1,6 @@
+exemplo:
+
+
+flex -t lexico.l >conta.c
+gcc conta.c -o conta
+./conta < teste.txt
